@@ -4,7 +4,7 @@
 
 <style type="text/css">
 
-    #galleria{ width: 700px; height: 400px; background: #000 }
+    #galleria{ width: 700px; height: 400px; background: #000; margin: 0 auto}
 </style>
 
 <head>

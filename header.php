@@ -1,12 +1,6 @@
 <html>
   <head>
       <link link rel="stylesheet" type="text/css" href="headerstyle.css" />
-
-  <?php 
-
-    $page = "home";
-  ?>
-
  
   </head>
   <body>

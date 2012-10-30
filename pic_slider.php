@@ -16,7 +16,7 @@
 
 <?php
 
-	for($i=1; $i < 53; $i++)
+	for($i=2; $i < 53; $i++)
 	{
         echo "<img src='images/img (".$i.").jpg'>";
     }

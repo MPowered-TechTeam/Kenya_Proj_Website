@@ -1,0 +1,48 @@
+.headerstuff{
+	width: 1000px;
+	height: 115px;
+	background-color: #CD3700;
+	margin: 0 auto;
+}
+
+.headerstuff span{
+	float: left;
+}
+
+.activepage h2{
+	font-weight: 900; 
+	padding-top: 10px;
+	font-size: 16px;
+	font-family: Calibri;
+	text-align: center;
+	color: white;
+}
+
+
+.inactivepage:hover
+{
+	background-color:#FFCC00;
+	cursor:pointer;
+}
+
+.inactivepage h2
+{
+	padding-top: 10px;
+	font-size: 14px;
+	font-family: Calibri;
+	font-weight: 600;
+	text-align: center;
+	color: black;
+
+}
+
+
+#MpoweredLogo
+{
+	width:300px;
+
+}
+#KenyaLogo
+{
+	height: 115px;
+}

@@ -19,7 +19,7 @@
 
 	<div id="header" style="text-align:center">
 		<span>
-			<p style="border:3px solid #000000;"></br>
+			<p></br>
 			<table style="width:1000px" boarder="1">
 			<tr>
 				<td>

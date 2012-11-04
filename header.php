@@ -6,6 +6,9 @@
   <body>
     <div class="Headerstuff">
         <span>
+          <img id="KenyaLogo" src="images/sun-logo.png"/>
+        </span>
+        <span>
             <table>
               <tr id ="MpoweredLogoTable">
                 <td colspan="3">
@@ -58,8 +61,6 @@
 
             </table>
         </span> 
-        <span>
-          <img id="KenyaLogo" src="images/sun-logo.png"/>
-        </span>
+        
     </div>
 </html>

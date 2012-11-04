@@ -4,6 +4,17 @@
 
 	include("header.php");
 ?>
+<head>
+	<style type="text/css">
+		strong, b {font-family: Helvetica;
+				font-weight: bold;
+				font-size: 24px;
+				}
+		p {font-family: Helvetica;}
+
+	</style>
+</head>
+
 
 <body style="background-color:white">
  	<div id="fb-root"></div>

@@ -11,14 +11,14 @@
         <span>
             <table>
               <tr id ="MpoweredLogoTable">
-                <td colspan="3">
+                <td colspan="7">
                   <img id="MpoweredLogo" src="images/MPoweredLogo3.png"/>
                 </td>
               </tr>
 
 
               <tr class="Navbar">
-                
+
                 <td onclick="window.location='index.php'"
                   <?php 
                   if($page == "home") 
@@ -54,6 +54,8 @@
 
                  <h2>Apply</h2>
                 </td>
+
+                
               </tr>
 
 

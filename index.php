@@ -5,7 +5,7 @@
 	include("header.php");
 ?>
 
-<body style="background-color:#F5F5DC">
+<body style="background-color:white">
  	<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];

@@ -5,7 +5,7 @@
 	include("header.php");
 ?>
 
-<body style="background-color:#F5F5DC">
+<body style="background-color:white">
 	<div id="container" style="width:1000px; margin: 0 auto">
 		<div id="text">
 			<b> Apply to The Kenya Project!</b></br>

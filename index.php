@@ -18,8 +18,8 @@
 			</td>
 			<td>
 				<div>
-					<strong> OUR VISION: </strong>
-					<p> Pushing the global economy forward and improving lives through student startups by connecting distant countries to spark innovation from intercultural exchange. </p>
+					<strong> OUR MISSION: </strong>
+					<p> We bring UM undergraduates to Kenya to give them a chance to translate their passions into positive social impact through startup experience and intercultural awareness.</p>
 				</div>	
 
 				<div id="social_media">

@@ -12,7 +12,7 @@
 
 <br />
 <br />
-<span class="fb-like" data-href="http://www.facebook.com/pages/MPowered-Entrepreneurship/263938600375830?fref=ts" data-width="200" data-font="arial"></span>
+<span class="fb-like" data-href="http://www.facebook.com/MKenyaProject" data-width="200" data-font="arial"></span>
 <br />
 <br />
 <a href="https://twitter.com/MPowered" class="twitter-follow-button" data-show-count="false" data-size="large" >Follow @MPowered</a>

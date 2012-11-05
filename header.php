@@ -1,14 +1,14 @@
 <html>
   <head>
       <link link rel="stylesheet" type="text/css" href="headerstyle.css" />
- 
+
   </head>
   <body>
-    <div class="Headerstuff">
-        <span>
+    <div class="headerstuff">
+        <div>
           <img id="KenyaLogo" src="images/sun-logo.png"/>
-        </span>
-        <span>
+        </div>
+        <div class='headerstuffdiv'>
             <table>
               <tr id ="MpoweredLogoTable">
                 <td colspan="7">
@@ -55,14 +55,22 @@
                  <h2>Apply</h2>
                 </td>
 
+                <td onclick="window.location='faq.php'"
+                <?php 
+                  if($page == "FAQ") 
+                      {echo "class='activepage'";}
+                  else 
+                      {echo "class='inactivepage'";}
+                  ?> 
+                >
+
+                 <h2>FAQ</h2>
+                </td>
+
                 
               </tr>
 
-
-
-
             </table>
-        </span> 
-        
-    </div>
+        </div> 
+      </div>
 </html>

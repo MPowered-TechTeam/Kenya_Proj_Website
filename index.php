@@ -4,79 +4,34 @@
 
 	include("header.php");
 ?>
-<head>
-	<style type="text/css">
-		strong, b {font-family: Helvetica;
-				font-weight: bold;
-				font-size: 24px;
-				}
-		p {font-family: Helvetica;}
-
-	</style>
-</head>
-
 
 <body style="background-color:white">
- 	<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
- 	
+ 
 <div id="container" style="width:1000px; margin: 0 auto">
 
-	<div id="header" style="text-align:center">
-		<span>
-			<p></br>
-			<table style="width:1000px" boarder="1">
-			<tr>
-				<td>
-			<img src="http://www.viesafari.com/images/stories/Kenya-flag.gif" align="middle" width="150" height="100"></img>
-				</td>
-				<td>
-			<i>Are you interested in social entrepreneurship? </br>
-			   Are you interested in learning about other cultures or willing to challenge yourself expand your worldview? </br>
-			   Do you wish you had the opportunity to create meaningful change even as a student? </br>
-			   Do you want the chance to travel to Kenya this summer and make tangible impact in
-			   partnership with local Kenyans to improve the economy and standard of living there? </br>
-			</i>
-				</td>
-			</tr>
-		</table>
-		<br>
-			</p>
-		</span>
-	
-	</div>
+	<table>
+		<tr>
+			<td width='30%' style='vertical-align:top;'>
+				<?php
+					include('side.php');
+				?>
+			</td>
+			<td>
+				<div>
+					<strong> OUR VISION: </strong>
+					<p> Pushing the global economy forward and improving lives through student startups by connecting distant countries to spark innovation from intercultural exchange. </p>
+				</div>	
 
-	<div>
-		<strong> OUR VISION: </strong>
-		<p> Pushing the global economy forward and improving lives through student startups by connecting distant countries to spark innovation from intercultural exchange. </p>
-	</div>	
-
-	<div id="social_media" style="height:400px">
-		<table style="width:1000px">
-			<tr>
-				<td align="left" width="33%">
-			<span class="fb-like" data-href="http://www.facebook.com/pages/MPowered-Entrepreneurship/263938600375830?fref=ts" data-width="200" data-font="arial"></span>
-				</td>
-				<td align="center" width="34%" >
-			<iframe width="420" height="315" align="middle" src="http://www.youtube.com/embed/GGAxqh7zyjk" frameborder="0" allowfullscreen></iframe>
-				</td>
-				<td align="right" width="33%">
-			<a href="https://twitter.com/MPowered" class="twitter-follow-button" data-show-count="false" data-size="large" >Follow @MPowered</a>
-			<script src="http://platform.twitter.com/widgets.js"
-			type="text/javascript"></script>
-				</td>
-			</tr>
-		</table>
-	</div>
-
+				<div id="social_media">
+					<div class="prezi-player"><style type="text/css" media="screen">.prezi-player { width: 700px; } .prezi-player-links { text-align: center; }</style><object id="prezi_ow7roeslqqga" name="prezi_ow7roeslqqga" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="700" height="500"><param name="movie" value="http://prezi.com/bin/preziloader.swf"/><param name="allowfullscreen" value="true"/><param name="allowFullScreenInteractive" value="true"/><param name="allowscriptaccess" value="always"/><param name="wmode" value="direct"/><param name="bgcolor" value="#ffffff"/><param name="flashvars" value="prezi_id=ow7roeslqqga&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=autostart&amp;autohide_ctrls=0"/><embed id="preziEmbed_ow7roeslqqga" name="preziEmbed_ow7roeslqqga" src="http://prezi.com/bin/preziloader.swf" type="application/x-shockwave-flash" allowfullscreen="true" allowFullScreenInteractive="true" allowscriptaccess="always" width="700" height="500" bgcolor="#ffffff" flashvars="prezi_id=ow7roeslqqga&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=autostart&amp;autohide_ctrls=0"></embed></object></div>
+				</div>
+			</td>
+		</tr>
+	</table>
 </div>
+</body>
 
+<?php
 
-	
- </body>
+	include("footer.php");
+?>

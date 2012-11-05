@@ -1,12 +1,31 @@
+strong, b {
+	font-family: Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+	font-family: Helvetica;
+}
+
+
 .headerstuff{
 	width: 1000px;
-	height: 115px;
-	background-color: #CD3700;
+	height: 220px;
+	/*background-color: #606060;*/
 	margin: 0 auto;
 }
 
-.headerstuff span{
-	float: left;
+.headerstuff div, .headerstuff table {
+	display: inline;
+}
+
+.headerstuffdiv {
+	float: right;
+}
+
+.headerstuff table {
+	width: 600px;
 }
 
 .activepage h2{
@@ -15,13 +34,13 @@
 	font-size: 16px;
 	font-family: Calibri;
 	text-align: center;
-	color: white;
+	color: #FFC800;
 }
 
 
 .inactivepage:hover
 {
-	background-color:#FFCC00;
+	background-color:#FFC800;
 	cursor:pointer;
 }
 
@@ -36,7 +55,6 @@
 
 }
 
-
 #MpoweredLogo
 {
 	width:300px;
@@ -44,5 +62,5 @@
 }
 #KenyaLogo
 {
-	height: 115px;
+	height: 220px;
 }

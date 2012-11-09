@@ -15,6 +15,7 @@
 					?>
 				</td>
 				<td>
+					<br />
 					<b> Who do we want on our team?</b>
 				 			<p>
 								<br> People who are ambitious, creative, curious, passionate, daring, team players, leaders, and those with the skills needed to address the problems found in Kithoka, Kenya.  We want to put together a team of students studying many different disciplines; so, all majors are encouraged to apply.  No previous entrepreneurship experience is necessary, but be aware that we are looking for committed and dedicated people. 

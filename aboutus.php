@@ -17,8 +17,7 @@
 				<td>
 					<b> What will you be doing?</b>
 					<p>
-						<br>
-
+						<br />
 						You will participate in a crash course for social entrepreneurship organized by MPowered Entrepreneurship along with cultural exposure to Swahili and what life is like in Kenya throughout the winter semester.
 						<br />
 						<br />
@@ -32,11 +31,8 @@
 						<br />
 						<br />
 						<b> What is it like in Kithoka, Kenya?</b>
-
-						<?php
-
-							include('pic_slider.php');
-						?>
+						<iframe src="https://docs.google.com/file/d/0B8Tv37F-sAMCY0FIVkFuZlh3RDQ/preview" width="640" height="385"></iframe>
+						<br />
 						<br /> 
 						<b>Lodging</b>
 						<p>

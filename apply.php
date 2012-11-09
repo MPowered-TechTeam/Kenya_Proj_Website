@@ -23,10 +23,14 @@
 						</p>
 						<b> Apply</b></br>
 						<p>
-							The Application will open on November 8, 2012.
+							<a href="https://wufoo03.wufoo.com/forms/the-kenya-project-application-2013/" target="_BLANK">Apply Here</a>
+							<!--The Application will open on November 8, 2012.-->
 							<br> There is a two-step interview process: one individual interview, one group interview
 						</p>
+						<?php
 
+							include('pic_slider.php');
+						?>
 					</div>
 				</td>
 			</tr>

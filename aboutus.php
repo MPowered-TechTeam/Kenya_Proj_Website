@@ -31,7 +31,8 @@
 						<br />
 						<br />
 						<b> What is it like in Kithoka, Kenya?</b>
-						<iframe src="https://docs.google.com/file/d/0B8Tv37F-sAMCY0FIVkFuZlh3RDQ/preview" width="640" height="385"></iframe>
+						<br />
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/HEem_uwrInI" frameborder="0" allowfullscreen></iframe>
 						<br />
 						<br /> 
 						<b>Lodging</b>
@@ -48,7 +49,11 @@
 						<br>Costs will depend on the amount we fundraise.  Last year, MPowered covered all costs of living and staying in Kenya, while trip participants paid for their plane ticket, personal immunizations, and visas. 
 						If you have financial concerns about your ability to participate, don't let it hold you back. Feel free to reach out to us at mpowered-kenya@umich.edu, and we will do our best to support you.
 						</p>
-						<br>	
+						<br>
+						<?php
+
+							include('pic_slider.php');
+						?>	
 					</td>
 			</tr>
 		</table>

@@ -44,6 +44,7 @@
 						<b>Immunizations</b>
 						<p>
 							<br>The Center for Disease Control website contains important information for traveling to Kenya.  The CDC recommends visiting a travel clinic four to six weeks in advance of your trip.  The University Health Service (UHS) travel clinic is a very simple and convenient option.
+						<br/>
 						<b>Costs</b>
 						<p>
 						<br>Costs will depend on the amount we fundraise.  Last year, MPowered covered all costs of living and staying in Kenya, while trip participants paid for their plane ticket, personal immunizations, and visas. 

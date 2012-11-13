@@ -11,7 +11,7 @@
         <div class='headerstuffdiv'>
             <table>
               <tr id ="MpoweredLogoTable">
-                <td colspan="7">
+                <td colspan="4">
                   <img id="MpoweredLogo" src="images/MPoweredLogo3.png"/>
                 </td>
               </tr>

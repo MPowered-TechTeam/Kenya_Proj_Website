@@ -172,7 +172,8 @@
 						<b> Apply</b></br>
 						<p style='text-align: center'>
 							<!--The Application will open on November 8, 2012.-->
-							<br> There is a two-step interview process: one individual interview, one group interview
+							<br /> There is a two-step interview process: one individual interview, one group interview. 
+              <br /> The application will close Monday, November 26th at 11:59pm.
 						</p>
 						<div style='text-align: center'>
 							<button class="btn btn-warning btn-large" onclick="window.location = 'https://wufoo03.wufoo.com/forms/the-kenya-project-application-2013/';" >

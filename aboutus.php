@@ -32,7 +32,9 @@
 						<br />
 						<b> What is it like in Kithoka, Kenya?</b>
 						<br />
-						<iframe width="560" height="315" src="http://www.youtube.com/embed/HEem_uwrInI" frameborder="0" allowfullscreen></iframe>
+						<div style='text-align: center'>
+							<iframe width="560" height="315" src="http://www.youtube.com/embed/HEem_uwrInI" frameborder="0" allowfullscreen></iframe>
+						</div>
 						<br />
 						<br /> 
 						<b>Lodging</b>

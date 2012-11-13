@@ -117,19 +117,19 @@
 
 
 .btn-warning {
-  color: #ffffff;
+  color: #000000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #faa732;
-  *background-color: #f89406;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fbb450), to(#f89406));
-  background-image: -webkit-linear-gradient(top, #fbb450, #f89406);
-  background-image: -o-linear-gradient(top, #fbb450, #f89406);
-  background-image: linear-gradient(to bottom, #fbb450, #f89406);
-  background-image: -moz-linear-gradient(top, #fbb450, #f89406);
+  *background-color: #ffe810;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffc800), to(#ffe810));
+  background-image: -webkit-linear-gradient(top, #ffc800, #ffe810);
+  background-image: -o-linear-gradient(top, #ffc800, #ffe810);
+  background-image: linear-gradient(to bottom, #ffc800, #ffe810);
+  background-image: -moz-linear-gradient(top, #ffc800, #ffe810);
   background-repeat: repeat-x;
-  border-color: #f89406 #f89406 #ad6704;
+  border-color: #ffe810 #ffe810 #ad6704;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffffc800', endColorstr='#ffffe810', GradientType=0);
   filter: progid:dximagetransform.microsoft.gradient(enabled=false);
 }
 
@@ -138,8 +138,8 @@
 .btn-warning.active,
 .btn-warning.disabled,
 .btn-warning[disabled] {
-  color: #ffffff;
-  background-color: #f89406;
+  color: #000000;
+  background-color: #ffe810;
   *background-color: #df8505;
 }
 
@@ -165,12 +165,15 @@
 							MPowered Entrepreneurship is partnering with MichiKen, a non-profit aimed at developing entrepreneur incubator space in Kithoka, Kenya, in its second year to bring 7 students to Kithoka, Kenya this summer in the month of June for three weeks.
 					<br><br>We are inviting you to take the knowledge you've learned in class, the ideas you are capable of generating, your passion and internal motivation, with the entrepreneurial resources MPowered will provide you throughout the year and actually apply your knowledge to create real solutions in Kenya.  You will be a true entrepreneur, discovering and learning to adapt in ambiguous and unfamiliar situations, finding a need to address and a way to solve it.
 						</p>
-						<iframe width="560" height="315" src="http://www.youtube.com/embed/L_UR8WjcEVs" frameborder="0" allowfullscreen></iframe>
-						<br />
+            <div style='text-align: center'>
+						  <iframe width="560" height="315" src="http://www.youtube.com/embed/L_UR8WjcEVs" frameborder="0" allowfullscreen></iframe>
+						</div>
+            <br />
 						<b> Apply</b></br>
-						<p>
+						<p style='text-align: center'>
 							<!--The Application will open on November 8, 2012.-->
-							<br> There is a two-step interview process: one individual interview, one group interview
+							<br /> There is a two-step interview process: one individual interview, one group interview. 
+              <br /> The application will close Monday, November 26th at 11:59pm.
 						</p>
 						<div style='text-align: center'>
 							<button class="btn btn-warning btn-large" onclick="window.location = 'https://wufoo03.wufoo.com/forms/the-kenya-project-application-2013/';" >

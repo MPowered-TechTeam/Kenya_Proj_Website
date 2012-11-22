@@ -18,10 +18,10 @@
 					<b> What will you be doing?</b>
 					<p>
 						<br />
-						You will participate in a crash course for social entrepreneurship organized by MPowered Entrepreneurship along with cultural exposure to Swahili and what life is like in Kenya throughout the winter semester.
+						You will participate in a crash course for social entrepreneurship organized by MPowered Entrepreneurship along with cultural exposure to Swahili and what life is like in Kenya throughout the winter semester. This means weekly meetings of about 2 hours during the winter semester. Please make sure you have time for this commitment.
 						<br />
 						<br />
-						During 3 weeks in Kenya in June, you will go through idea generation, market research, pivoting, prototyping, and business model generation in partnership with young adults from the Kithoka and surrounding Meru community. 
+						During 3 weeks in Kenya in June, you will go through idea generation, market research, pivoting, prototyping, and business model generation in partnership with young adults from the Kithoka and surrounding Meru community. There will also be team building activities like climbing Mt. Kenya and visiting an Ecolodge.
 						<br />
 						<br />
 						The trip will conclude with a pitch of your idea to influential local leaders in the Kenyan community to receive feedback and determine future viability and funding.

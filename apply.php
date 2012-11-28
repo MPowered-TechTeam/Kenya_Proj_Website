@@ -171,12 +171,14 @@
             <br />
 						<b> Apply</b></br>
 						<p style='text-align: center'>
-							<!--The Application will open on November 8, 2012.-->
-							<br /> There is a two-step interview process: one individual interview, one group interview. 
-              <br /> The application will close Monday, November 26th at 11:59pm.
+							<!--The Application will open on November 8, 2012.--> 
+              Our application for Summer 2013 is now closed.  Thanks for applying!  
+              We will be having first round interviews the weekend of December 1st 
+              and second round interviews the weekend of December 8th. 
+              If you applied, you'll be contacted shortly.
 						</p>
 						<div style='text-align: center'>
-							<button class="btn btn-warning btn-large" onclick="window.location = 'https://wufoo03.wufoo.com/forms/the-kenya-project-application-2013/';" >
+							<button disabled="disabled" class="btn btn-warning btn-large" onclick="window.location = 'https://wufoo03.wufoo.com/forms/the-kenya-project-application-2013/';" >
 									Apply Here
 							</button>
 						</div>
